@@ -2,7 +2,7 @@
 >  解决leetcode换设备登录后，已提交答案不再显示的问题
 
 | 题目描述 | 难易程度 | 通过解法 | 解题思路 | 
-| :----: | :----: | :----: | :----: |
+| :---- | :----: | :----: | :---- |
 | [98. 验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/) |  中等 | [solution](98.%20验证二叉搜索树.py) | **BST递归遍历，左小右大，辅助函数记录上下限** |
 | [100. 相同的树](https://leetcode-cn.com/problems/same-tree/) |  简单 | [solution](100.%20相同的树.py) | **BST递归遍历，左小右大，辅助函数记录上下限，val相等** |
 | [146. LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/) |  中等 | [solution](146.%20LRU缓存机制.py) | **双向链接+hashmap（字典）** |
